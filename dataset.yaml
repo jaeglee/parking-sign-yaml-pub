@@ -1,0 +1,45 @@
+train: ./images/train  
+val: ./images/val      
+test: ./images/test
+nc: 40                 # Number of classes
+names:                 # List of class names
+  - regulatory--bicycle-parking--g1
+  - regulatory--end-of-no-parking--g1
+  - regulatory--end-of-no-parking--g2
+  - regulatory--end-of-no-parking-or-stopping--g1
+  - regulatory--end-of-parking-zone--g1
+  - regulatory--end-of-parking-zone--g2
+  - regulatory--no-parking--g1
+  - regulatory--no-parking--g2
+  - regulatory--no-parking--g3
+  - regulatory--no-parking--g4
+  - regulatory--no-parking--g5
+  - regulatory--no-parking--g6
+  - regulatory--no-parking--g7
+  - regulatory--no-parking--g8
+  - regulatory--no-parking--g9
+  - regulatory--no-parking-bicycles-or-motorcycles--g1
+  - regulatory--no-parking-bus-stop--g1
+  - regulatory--no-parking-or-no-stopping--g1
+  - regulatory--no-parking-or-no-stopping--g2
+  - regulatory--no-parking-or-no-stopping--g3
+  - regulatory--no-parking-or-no-stopping--g4
+  - regulatory--no-parking-or-no-stopping--g5
+  - regulatory--parking-fee-station--g1
+  - regulatory--parking-restrictions--g1
+  - regulatory--parking-restrictions--g2
+  - regulatory--parking-restrictions--g3
+  - regulatory--reserved-parking--g1
+  - regulatory--slanted-parking--g1
+  - information--caravan-parking--g1
+  - information--caravan-trailer-parking--g1
+  - information--parking--g1
+  - information--parking--g2
+  - information--parking--g3
+  - information--parking--g4
+  - information--parking--g5
+  - information--parking--g6
+  - information--parking-area--g1
+  - information--parking-with-restrictions--g1
+  - information--perpendicular-parking--g1
+  - information--truck-parking--g1
