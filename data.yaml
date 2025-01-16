@@ -1,0 +1,45 @@
+train: ./images/train  
+val: ./images/val      
+test: ./images/test
+nc: 40
+names:
+  0: empty-so-disregard   # may have to remove this
+  1: R7-1
+  2: R7-20
+  3: R7-21
+  4: R7-22
+  5: R7-24
+  6: R7-27
+  7: R7-28
+  8: R7-30
+  9: R7-31
+  10: R7-32
+  11: R7-34
+  12: R7-40
+  13: R7-41
+  14: R7-42
+  15: R7-43
+  16: R7-44
+  17: R7-45
+  18: R7-49
+  19: R7-50
+  20: R7-51
+  21: R7-55
+  22: R7-56
+  23: R7-57
+  24: R7-59
+  25: R7-61
+  26: R7-65
+  27: R7-66
+  28: R7-68
+  29: R7-69
+  30: R7-70
+  31: R7-88
+  32: R7-100
+  33: R7-101
+  34: R7-110
+  35: R7-125
+  36: R7-128
+  37: R7-182
+  38: truck-loading-only
+  39: authorized-vehicle-only
